@@ -1,0 +1,13 @@
+import asyncio
+
+
+async def ${NAME}():
+    return 0
+
+
+async def main():
+    return 0
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
